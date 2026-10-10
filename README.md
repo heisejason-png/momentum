@@ -88,5 +88,6 @@ to the project.
 
 Momentum is licensed under the MIT License. A copy of the license
 [can be found here.](LICENSE)
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
+
+Owned by Jason Heise heisejason-png Giters
